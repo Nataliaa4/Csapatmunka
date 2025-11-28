@@ -1,9 +1,6 @@
 ﻿using Iktraktar.Models;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Iktraktar
 {
@@ -14,7 +11,6 @@ namespace Iktraktar
             bool canProcess = true;
             var insufficientProducts = new List<OrderItem>();
 
-            // Először ellenőrizzük, van-e elég készlet minden tételhez
             foreach (var item in order.Items)
             {
                 var storedProduct = storage.FindById(item.Product.Id);
@@ -35,15 +31,15 @@ namespace Iktraktar
                 return;
             }
 
-            // Levonjuk a készletet
-            Console.WriteLine($"Rendelés feldolgozva #{order.Id}");
-            Console.WriteLine("Levont készlet:");
+            var deductedList = new List<string>();
             foreach (var item in order.Items)
             {
                 storage.ReduceQuantity(item.Product, item.Quantity);
-                Console.WriteLine($"#{item.Product.Id} {item.Product.Name} (-{item.Quantity})");
+                deductedList.Add($"#{item.Product.Id} {item.Product.Name} (-{item.Quantity})");
             }
+
+            Console.WriteLine($"\nRendelés feldolgozva #{order.Id}");
+            Console.WriteLine("    Levont készlet: " + string.Join(", ", deductedList));
         }
     }
 }
-

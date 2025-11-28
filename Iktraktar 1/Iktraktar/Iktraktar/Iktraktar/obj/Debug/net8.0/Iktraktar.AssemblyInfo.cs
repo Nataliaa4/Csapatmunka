@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iktraktar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdac04ff1bd9a743b50a04c7dcb45214e7b2924")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08221f72d717a4f58aa6edc64693f7e8c06eb0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iktraktar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iktraktar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

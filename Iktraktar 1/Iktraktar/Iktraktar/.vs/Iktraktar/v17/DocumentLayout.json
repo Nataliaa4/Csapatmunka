@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\strorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\strorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\strorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\strorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProcessOrder.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\ProcessOrder.cs",
+              "RelativeDocumentMoniker": "Iktraktar\\ProcessOrder.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\ProcessOrder.cs",
+              "RelativeToolTip": "Iktraktar\\ProcessOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:11:26.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Order.cs",
               "RelativeDocumentMoniker": "Iktraktar\\Order.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Iktraktar\\Order.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAwwAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:26:58.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T13:26:58.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\OrderItem.cs",
               "RelativeDocumentMoniker": "Iktraktar\\OrderItem.cs",
@@ -67,12 +83,11 @@
               "RelativeToolTip": "Iktraktar\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:25:42.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T13:25:42.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Product.cs",
               "RelativeDocumentMoniker": "Iktraktar\\Product.cs",
@@ -80,12 +95,11 @@
               "RelativeToolTip": "Iktraktar\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:02:27.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T12:02:27.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IIndentifiable.cs",
               "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\IIndentifiable.cs",
               "RelativeDocumentMoniker": "Iktraktar\\IIndentifiable.cs",
@@ -93,12 +107,11 @@
               "RelativeToolTip": "Iktraktar\\IIndentifiable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:29:20.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T11:29:20.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IStorable.cs",
               "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\IStorable.cs",
               "RelativeDocumentMoniker": "Iktraktar\\IStorable.cs",
@@ -106,12 +119,11 @@
               "RelativeToolTip": "Iktraktar\\IStorable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:28:59.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T11:28:59.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ISearchable.cs",
               "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\ISearchable.cs",
               "RelativeDocumentMoniker": "Iktraktar\\ISearchable.cs",
@@ -119,18 +131,17 @@
               "RelativeToolTip": "Iktraktar\\ISearchable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:28:37.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T11:28:37.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Strorage.cs",
               "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Strorage.cs",
               "RelativeDocumentMoniker": "Iktraktar\\Strorage.cs",
               "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Strorage.cs",
               "RelativeToolTip": "Iktraktar\\Strorage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:28:04.541Z",
               "EditorCaption": ""
@@ -143,7 +154,7 @@
               "RelativeDocumentMoniker": "Iktraktar\\Program.cs",
               "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Program.cs",
               "RelativeToolTip": "Iktraktar\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwDoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:16:11.724Z",
               "EditorCaption": ""
