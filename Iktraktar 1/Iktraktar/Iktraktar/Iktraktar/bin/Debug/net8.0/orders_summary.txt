@@ -1,6 +1,0 @@
-Order ID: 1
-- Toll: 50 db
-
-Order ID: 2
-- Füzet: 20 db
-
