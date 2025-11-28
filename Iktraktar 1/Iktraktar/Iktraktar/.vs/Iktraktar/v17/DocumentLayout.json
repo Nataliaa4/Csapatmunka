@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\",
+  "WorkspaceRootPath": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\leh_natalia\\iktraktar\\iktraktar\\iktraktar\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\leh_natalia\\iktraktar\\iktraktar\\iktraktar\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\leh_natalia\\iktraktar\\iktraktar\\iktraktar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\leh_natalia\\iktraktar\\iktraktar\\iktraktar\\iindentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\iindentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\strorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\strorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\leh_natalia\\iktraktar\\iktraktar\\iktraktar\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\leh_natalia\\iktraktar\\iktraktar\\iktraktar\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\leh_natalia\\iktraktar\\iktraktar\\iktraktar\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\leh_natalia\\iktraktar\\iktraktar\\iktraktar\\strorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\strorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|d:\\szigeti_balazs\\ikt\\iktraktar 1\\iktraktar\\iktraktar\\iktraktar\\iindentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D496848-2EDB-465A-9AA5-546C72AB3BC0}|Iktraktar\\Iktraktar.csproj|solutionrelative:iktraktar\\iindentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,22 +48,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\Order.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Order.cs",
               "RelativeDocumentMoniker": "Iktraktar\\Order.cs",
-              "ToolTip": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\Order.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Order.cs",
               "RelativeToolTip": "Iktraktar\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T13:26:58.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\OrderItem.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\OrderItem.cs",
               "RelativeDocumentMoniker": "Iktraktar\\OrderItem.cs",
-              "ToolTip": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\OrderItem.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\OrderItem.cs",
               "RelativeToolTip": "Iktraktar\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\Product.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Product.cs",
               "RelativeDocumentMoniker": "Iktraktar\\Product.cs",
-              "ToolTip": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\Product.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Product.cs",
               "RelativeToolTip": "Iktraktar\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IIndentifiable.cs",
-              "DocumentMoniker": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\IIndentifiable.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\IIndentifiable.cs",
               "RelativeDocumentMoniker": "Iktraktar\\IIndentifiable.cs",
-              "ToolTip": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\IIndentifiable.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\IIndentifiable.cs",
               "RelativeToolTip": "Iktraktar\\IIndentifiable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IStorable.cs",
-              "DocumentMoniker": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\IStorable.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\IStorable.cs",
               "RelativeDocumentMoniker": "Iktraktar\\IStorable.cs",
-              "ToolTip": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\IStorable.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\IStorable.cs",
               "RelativeToolTip": "Iktraktar\\IStorable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ISearchable.cs",
-              "DocumentMoniker": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\ISearchable.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\ISearchable.cs",
               "RelativeDocumentMoniker": "Iktraktar\\ISearchable.cs",
-              "ToolTip": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\ISearchable.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\ISearchable.cs",
               "RelativeToolTip": "Iktraktar\\ISearchable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,33 +124,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Strorage.cs",
-              "DocumentMoniker": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\Strorage.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Strorage.cs",
               "RelativeDocumentMoniker": "Iktraktar\\Strorage.cs",
-              "ToolTip": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\Strorage.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Strorage.cs",
               "RelativeToolTip": "Iktraktar\\Strorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:28:04.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\Program.cs",
+              "DocumentMoniker": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Program.cs",
               "RelativeDocumentMoniker": "Iktraktar\\Program.cs",
-              "ToolTip": "D:\\leh_natalia\\Iktraktar\\Iktraktar\\Iktraktar\\Program.cs",
+              "ToolTip": "D:\\Szigeti_Balazs\\ikt\\Iktraktar 1\\Iktraktar\\Iktraktar\\Iktraktar\\Program.cs",
               "RelativeToolTip": "Iktraktar\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:16:11.724Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

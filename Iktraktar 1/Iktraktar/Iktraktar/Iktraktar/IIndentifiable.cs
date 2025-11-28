@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Iktraktar
+namespace Iktraktar.Models.Interfaces
 {
     internal interface IIndentifiable
     {

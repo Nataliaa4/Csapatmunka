@@ -36,6 +36,33 @@ namespace Iktraktar.Models
             }
             return searchedProducts;
         }
-        
+        // Készlet lekérdezése
+        public int GetQuantity(Product product)
+        {
+            var p = FindById(product.Id);
+            return p != null ? p.Quantity : 0;
+        }
+
+        // Készlet csökkentése, siker / hiba visszaadása
+        public bool ReduceQuantity(Product product, int amount)
+        {
+            var p = FindById(product.Id);
+            if (p == null || p.Quantity < amount)
+                return false;
+
+            p.Quantity -= amount;
+            return true;
+        }
+
+        // Összes termék kiíratása (teszteléshez)
+        public void PrintAllProducts()
+        {
+            Console.WriteLine("Raktár tartalma:");
+            foreach (var p in items)
+            {
+                Console.WriteLine(p);
+            }
+        }
+
     }
 }
