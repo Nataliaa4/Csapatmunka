@@ -26,7 +26,7 @@ namespace Iktraktar
                 Console.WriteLine("6. Rendelés létrehozása termékekből (csak elérhető)");
                 Console.WriteLine("7. Rendelés összegzése, kiírás fájlba");
                 Console.WriteLine("8. Rendelés feldolgozása");
-                Console.WriteLine("10. Kilépés");
+                Console.WriteLine("0. Kilépés");
                 Console.Write("Válassz menüpontot: ");
 
                 string choice = Console.ReadLine()!;
@@ -49,7 +49,7 @@ namespace Iktraktar
                         ProcessOrders(storage);
                         break;
 
-                    case "10":
+                    case "0":
                         running = false;
                         break;
 
