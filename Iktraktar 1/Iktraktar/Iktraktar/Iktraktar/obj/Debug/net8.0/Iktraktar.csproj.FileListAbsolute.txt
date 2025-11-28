@@ -12,3 +12,4 @@ D:\Szigeti_Balazs\ikt\Iktraktar 1\Iktraktar\Iktraktar\Iktraktar\obj\Debug\net8.0
 D:\Szigeti_Balazs\ikt\Iktraktar 1\Iktraktar\Iktraktar\Iktraktar\obj\Debug\net8.0\Iktraktar.pdb
 D:\Szigeti_Balazs\ikt\Iktraktar 1\Iktraktar\Iktraktar\Iktraktar\obj\Debug\net8.0\Iktraktar.genruntimeconfig.cache
 D:\Szigeti_Balazs\ikt\Iktraktar 1\Iktraktar\Iktraktar\Iktraktar\obj\Debug\net8.0\ref\Iktraktar.dll
+D:\Szigeti_Balazs\ikt\Iktraktar 1\Iktraktar\Iktraktar\Iktraktar\obj\Debug\net8.0\Iktraktar.sourcelink.json
