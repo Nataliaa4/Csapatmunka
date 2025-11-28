@@ -1,19 +1,5 @@
-# Visual Studio / Rider
 .vs/
-.idea/
-.vscode/
-
-# Build output
-bin/
 obj/
-
-# User-specific files
+bin/
 *.user
 *.suo
-*.userprefs
-
-# NuGet
-packages/
-*.nupkg
-project.lock.json
-artifacts/
